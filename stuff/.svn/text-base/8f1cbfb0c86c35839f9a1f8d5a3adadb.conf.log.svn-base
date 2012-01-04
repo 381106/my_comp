@@ -1,0 +1,169 @@
+[dvd-slideshow] Wed Aug 24 17:52:19 OMSST 2011
+[dvd-slideshow] Command line was:
+[dvd-slideshow] /usr/bin/dvd-slideshow /media/workspace/workspace/my_company_site/tmp/8f1cbfb0c86c35839f9a1f8d5a3adadb.conf
+[dvd-slideshow] dvd-slideshow version 0.8.2
+[dvd-slideshow] Linux php-P55-US3L 2.6.38-11-generic-pae #48-Ubuntu SMP Fri Jul 29 20:51:21 UTC 2011 i686 i686 i386 GNU/Linux
+[dvd-slideshow] Output directory=/media/workspace/workspace/my_company_site/stuff
+[dvd-slideshow] Locale: 
+LANG=POSIX
+LANGUAGE=en_US:en
+LC_CTYPE="POSIX"
+LC_NUMERIC="POSIX"
+LC_TIME="POSIX"
+LC_COLLATE="POSIX"
+LC_MONETARY="POSIX"
+LC_MESSAGES="POSIX"
+LC_PAPER="POSIX"
+LC_NAME="POSIX"
+LC_ADDRESS="POSIX"
+LC_TELEPHONE="POSIX"
+LC_MEASUREMENT="POSIX"
+LC_IDENTIFICATION="POSIX"
+LC_ALL=
+[dvd-slideshow] Using /bin/bash version GNU bash, version 4.2.8(1)-release (i686-pc-linux-gnu)
+[dvd-slideshow] Found mjpegtools version 1.9.0
+[dvd-slideshow] Using mjpegtools subsampling -S 420mpeg2
+[dvd-slideshow] Found sox version v14.3.1
+[dvd-slideshow] Found ImageMagick version 6.6.2-6
+[dvd-slideshow] Found dvdauthor version 0.7.0.
+ffmpeg version N-31775-g640a905, Copyright (c) 2000-2011 the FFmpeg developers
+  built on Aug  8 2011 18:35:25 with gcc 4.5.2
+  configuration: --enable-gpl --enable-libfaac --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libtheora --enable-libx264 --enable-nonfree --enable-postproc --enable-version3 --enable-x11grab
+  libavutil    51. 11. 1 / 51. 11. 1
+  libavcodec   53.  9. 1 / 53.  9. 1
+  libavformat  53.  6. 0 / 53.  6. 0
+  libavdevice  53.  2. 0 / 53.  2. 0
+  libavfilter   2. 28. 1 /  2. 28. 1
+  libswscale    2.  0. 0 /  2.  0. 0
+  libpostproc  51.  2. 0 / 51.  2. 0
+ffmpeg N-31775-g640a905
+libavutil    51. 11. 1 / 51. 11. 1
+libavcodec   53.  9. 1 / 53.  9. 1
+libavformat  53.  6. 0 / 53.  6. 0
+libavdevice  53.  2. 0 / 53.  2. 0
+libavfilter   2. 28. 1 /  2. 28. 1
+libswscale    2.  0. 0 /  2.  0. 0
+libpostproc  51.  2. 0 / 51.  2. 0
+[dvd-slideshow] ####################################
+[dvd-slideshow] Parsing input file /media/workspace/workspace/my_company_site/tmp/8f1cbfb0c86c35839f9a1f8d5a3adadb.conf
+[dvd-slideshow]############################################################
+[dvd-slideshow] Title font is /usr/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Subtitle font is /usr/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Found 21 images.
+[dvd-slideshow] Found 1 audio files.
+[dvd-slideshow] Found 0 background slides.
+[dvd-slideshow] Found 0 title slides.
+[dvd-slideshow] Found 20 transitions (fadein/fadeout/crossfade/wipe).
+[dvd-slideshow] Video: NTSC 720x480 29.97fps 4:3
+[dvd-slideshow] Audio: AC3 48000 192k
+[dvd-slideshow] Debug=0  Autocrop=0 Subtitles=dvd Border=0
+[dvd-slideshow] Using SMP optimizations for multi-processor machines
+[dvd-slideshow] Title_font=...r/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Subtitle_font=...r/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Running initial error check...
+[dvd-slideshow]############################################################
+[dvd-slideshow] Total audio length = 
+[dvd-slideshow] Total video length = 0:1:7.000
+[dvd-slideshow] Temp dir is ...mpany_site/stuff/dvd-slideshow_temp_8562
+[dvd-slideshow] Creating black background
+[dvd-slideshow]############################################################
+[dvd-slideshow] Track 1 audiofile 0 ...ff/slideshow_demo_content/background.mp3
+[dvd-slideshow]############################################################
+[dvd-slideshow] 1/21 ...pace/my_company_site/stuff/logo_blue.jpg 0:0:5.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:2.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 2/21 ...ite/stuff/slideshow_demo_content/fat.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 3/21 ...e/stuff/slideshow_demo_content/Fedor.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 4/21 ...eshow_demo_content/Firefox_wallpaper.png 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 5/21 .../slideshow_demo_content/flyerEditor..jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= up
+[dvd-slideshow]############################################################
+[dvd-slideshow] 6/21 ...site/stuff/slideshow_demo_content/fu.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 7/21 ...tuff/slideshow_demo_content/getwell8.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 8/21 .../slideshow_demo_content/hey.you.dude.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 9/21 ...tuff/slideshow_demo_content/HomeRedo.png 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 10/21 ...nd_Cruiser_Prado_Frankfurt_2009-main.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 11/21 ...ideshow_demo_content/Rainbow_2297219.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 12/21 ..._demo_content/s3img_12398122_34695_6.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 13/21 ..._demo_content/s3img_146634562_5470_1.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 14/21 ...demo_content/s3img_161461572_14171_1.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 15/21 ...demo_content/s3img_161461572_16526_1.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 16/21 ...demo_content/s3img_161461572_16669_1.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= up
+[dvd-slideshow]############################################################
+[dvd-slideshow] 17/21 ...ite/stuff/slideshow_demo_content/sss.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 18/21 ...f/slideshow_demo_content/w1_prado_xx.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 19/21 ...ff/slideshow_demo_content/x_5baa026b.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 20/21 ...ff/slideshow_demo_content/x_b1275905.jpg 0:0:3.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 21/21 ...pace/my_company_site/stuff/logo_blue.jpg 0:0:5.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] mpeg2enc process=14719
+[dvd-slideshow] output from ps:
+  PID TTY      STAT   TIME COMMAND
+14719 pts/2    S      0:10 ffmpeg -f yuv4mpegpipe -i /media/workspace/workspace/my_company_site/stuff/dvd-slideshow_temp_8562/dvdss-pipe-8562 -target ntsc-dvd -r 29.97 -an -aspect 4:3 -s 720x480 -y -bf 2 -f mpeg2video /media/workspace/workspace/my_company_site/stuff/dvd-slideshow_temp_8562/video.mpg
+[dvd-slideshow] waiting for encoder to finish...
+[dvd-slideshow]#####################################
+[dvd-slideshow] Working on track 1 audio file 1
+[dvd-slideshow] /media/workspace/workspace/my_company_site//stuff/slideshow_demo_content/background.mp3
+[dvd-slideshow] Volume adjust=0.95  should be 1.000
+[dvd-slideshow] Original audio track length=0:2:50.553
+[dvd-slideshow] Fade in time=0:0:0.000 Fade out time=0:0:0.000
+[dvd-slideshow] This audio plays in slideshow from 0:0:0.000 to 0:1:7.000
+[dvd-slideshow] ###############
+[dvd-slideshow] Creating ac3 audio...

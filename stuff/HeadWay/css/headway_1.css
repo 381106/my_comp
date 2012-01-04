@@ -1,0 +1,341 @@
+/* 
+    Document   : css
+    Created on : 06.10.2011, 10:37:32
+    Author     : Полина
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body {
+    font: normal 12px verdana;
+    color: #253459;
+    line-height: 1.5;
+    margin: 0 auto;
+    background: url("../img/background.png") repeat scroll 0 0 transparent;
+
+}
+
+.all {
+    font: normal 12px verdana;
+    color: #253459;
+    line-height: 1.5;
+    margin: 0 auto;
+    width: 1260px;
+}
+
+.float {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+@font-face {
+    font-family: "gothic";
+    src: url(../fonts/gothic.ttf);
+}
+
+@font-face {
+    font-family: "gothicb";
+    src: url(../fonts/gothicb.ttf);
+}
+
+.login-button{
+    background: url("../images/button-login.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    color: white;
+    height: 29px;
+    margin: 0;
+    padding: 0;
+    width: 65px;
+}
+
+.login-button:hover{
+    background: url("../images/button-login.png") no-repeat scroll 0 97% transparent;
+}
+
+.background-center-1 {
+    background-color: transparent;
+    background-image: url("../img/background-center-1.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 443px;
+    width: 1280px;
+}
+
+.net {
+    margin-top: 270px;
+    margin-left: 20px;
+}
+
+.logo{
+    padding-left: 70px;
+    margin-top: 60px;
+    float: left;
+}
+
+.logo a {
+    text-decoration: none;
+}
+
+.header-2 {
+    padding-left: 30px;
+    width: 640px;
+    float: left;
+    margin-top: 48px;
+}
+
+.slogan {
+    background-image: url("../img/back-slogan.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 230px;
+    width: 610px;
+    color: #9cd7f8;
+    font-family: "gothic";
+    font-size: 14px;
+    line-height: 1.6;
+    margin-left: 30px;
+}
+
+.slogan-txt {
+    width: 467px;
+    word-spacing: 3px;
+    text-shadow: #172c53 0 -1px 2px;
+    padding-left: 69px;
+    padding-top: 85px;
+}
+
+.menu {
+    height: 62px;
+    width: 640px;
+}
+/*////*/
+.home-menu {
+    height: 31px;
+    width: 89px;
+    background-image: url("../img/home-menu.png");
+}
+
+.about-menu {
+    height: 31px;
+    width: 109px;
+    background-image: url("../img/about-menu.png");
+}
+
+.portfolio-menu {
+    height: 31px;
+    width: 109px;
+    background-image: url("../img/portfolio-menu.png");
+}
+
+.demos-menu {
+    height: 31px;
+    width: 109px;
+    background-image: url("../img/demos-menu.png");
+}
+
+.feedbacks-menu {
+    height: 31px;
+    width: 109px;
+    background-image: url("../img/feedbacks-menu.png");
+}
+
+.contact-menu {
+    height: 31px;
+    width: 109px;
+    background-image: url("../img/contact-menu.png");
+}
+/*////*/
+.menu a {
+    text-decoration: none;
+    
+}
+
+.number {
+    width: 165px;
+    height: 30px;
+    margin-left: 240px;
+    text-shadow: #172c53 0 -1px 2px;
+    font-size: 15px;
+    color: #ffffff;
+    text-align: right;
+}
+
+.phone {
+    padding-right: 140px;
+    padding-top: 28px;
+}
+
+.border-billet-top {
+    width: 1280px;
+    height: 2px;
+    background-image: url("../img/border-billet-top.png");
+}
+
+.header-center-home {
+    background: url("../img/border-billet-center.png")repeat-y scroll 0 0 transparent;;
+    width: 1280px;
+    height: 50px;
+}
+
+.border-billet-bottom {
+    width: 1280px;
+    height: 1px;
+    background-image: url("../img/border-billet-bottom.png");
+}
+
+.background-center-2 {
+    background-color: transparent;
+    background-image: url("../img/background-center-2.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 323px;
+    width: 1280px;
+}
+
+.background-center-3 {
+    background-color: transparent;
+    background-image: url("../img/background-center-3.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 306px;
+    width: 1280px;
+}
+
+.footer {
+    height: 40px;
+    margin-top: 15px;
+    margin-bottom: 70px;
+    text-align: center;
+    color: #7d8eaa;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #7d8eaa;
+}
+
+.services-block {
+    width: 270px;
+    margin-left: 60px;
+}
+
+.services-block-2 {
+    width: 270px;
+}
+
+.txt-services {
+    width: 240px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+.header-services-1 {
+    color: #ffffff;
+    font-family: "gothicb";
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: bold;
+}
+
+.padding-header{
+    padding-left: 78px;
+    padding-top: 9px;
+}
+
+.header-services-2 {
+    color: #ffffff;
+    font: italic 12px verdana;
+}
+
+.header-services-3 {
+    color: #ffffff;
+    font-family: "gothicb";
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: bold;
+    padding-left: 78px;
+    padding-top: 9px;
+}
+
+.header-services {
+    height: 80px;
+    padding-top: 20px;
+}
+
+.header-services-txt {
+    padding-top: 30px;
+    text-shadow: #172c53 0 -1px 2px;
+    font: bold 14px verdana;
+    color: #ffffff;
+    word-spacing: 3px;
+    width: 260px;
+}
+
+.separate-home {
+    width: 2px;
+    height: 200px;
+    padding-left: 20px;
+}
+
+.oblochko-1 {
+    background-color: transparent;
+    background-image: url("../img/oblochko.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 168px;
+    width: 301px;
+    margin-top: 28px;
+    margin-left: 72px;
+    font-size: 11px;
+}
+
+.oblochko-2 {
+    background-color: transparent;
+    background-image: url("../img/oblochko.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 168px;
+    width: 301px;
+    margin-top: 28px;
+    margin-left: 116px;
+    font-size: 11px;
+}
+
+.oblochko-3 {
+    background-color: transparent;
+    background-image: url("../img/oblochko.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 168px;
+    width: 301px;
+    margin-top: 28px;
+    margin-left: 116px;
+    font-size: 11px;
+}
+
+.txt-oblochko {
+    padding-top: 41px;
+    padding-left: 47px;
+    width: 222px;
+}
+
+.comment {
+    font: bold 14px verdana;
+    margin-left: 140px;
+    margin-top: 15px;
+}
+
+.comment-2 {
+    font: bold 14px verdana;
+    margin-left: 184px;
+    margin-top: 15px;
+}

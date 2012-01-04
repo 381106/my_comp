@@ -1,0 +1,254 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="css/headway.css" type="text/css"/>
+        <!--[if IE]>
+        <link rel="stylesheet" href="css/ie.css" type="text/css"/>
+<![endif]-->
+        <title>Portfolio</title>
+    </head>
+    <body>
+        <div class="content-all">
+            <div class="main-page">
+                <div class="page">
+                    <div class="page-inner">
+                        <!--HEADER ..Start..-->
+                        <div class="header">
+                            <div class="header-inner clear-block">
+                                <div class="float net">
+                                    <div> <a class="net_1" href=""></a></div>
+                                    <div> <a class="net_2" href=""></a></div>
+                                    <div> <a class="net_3" href=""></a></div>
+                                    <div> <a class="net_4" href=""></a></div>
+                                    <div> <a class="net_5" href=""></a></div>
+                                </div>
+                                <div class="logo">
+                                    <a href=""><img alt="net_1" src="img/logo.png"/></a>
+                                </div>
+                                <div class="header-2">
+                                    <div id="menu">
+                                        <ul>
+                                            <li><a href="#" class="home-menu" title=""></a></li>
+                                            <li><img alt="img" src="img/separate-menu.png"/></li>
+                                            <li><a href="#" class="about-menu-active" title=""></a></li>
+                                            <li><img alt="img" src="img/separate-menu.png"/></li>
+                                            <li><a href="#" class="portfolio-menu" title=""></a></li>
+                                            <li><img alt="img" src="img/separate-menu.png"/></li>
+                                            <li><a href="#" class="demos-menu" title=""></a></li>
+                                            <li><img alt="img" src="img/separate-menu.png"/></li>
+                                            <li><a href="#" class="feedbacks-menu" title=""></a></li>
+                                            <li><img alt="img" src="img/separate-menu.png"/></li>
+                                            <li><a href="#" class="contact-menu" title=""></a></li>
+                                            <li><img alt="img" src="img/separate-menu.png"/></li>
+                                        </ul>
+                                    </div>
+                                    <div class="slogan">
+                                        <div class="slogan-txt">
+                                            We're are web oriented company which creates web-sites and web solutions. We offer web development and services for more than 3 years.
+                                        </div>
+                                        <div class="float-right phone"><img alt="img" src="img/phone.png"/></div>
+                                    </div>
+                                    <div class="number">
+                                        <b>Tel:</b> 8 908 802 09 66 (3812) 55-77-20
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                        <!--HEADER ..End..-->
+
+                        <div class="main">
+                            <div class="cont">
+                                <!--the total back..Start..-->
+                                <div class="back-long">
+                                    <div class="border-billet-top"></div>
+                                    <div class="home-center">
+                                        <div class="padding-header">
+                                            <span class="header-services-1">Portfolio projects -</span> <span class="header-services-2">We provide such services and technologies</span>
+                                        </div>
+                                    </div>
+                                    <div class="border-billet-bottom"></div>
+                                </div>
+                                <!--the total back..End..-->
+                                <div class="background-center-main">
+                                    <div class="background-center-main-2">
+                                        <div class="general-container">
+                                            <table>
+                                                <tbody>
+                                                    <tr class="row-portfolio">
+                                                        <td class="coll-1">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                        <td class="coll-3">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="line-portfolio-1" colspan="4">
+                                                            <div class="line-portfolio"></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr class="row-portfolio">
+                                                        <td class="coll-1">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                        <td class="coll-3">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="line-portfolio-1" colspan="4">
+                                                            <div class="line-portfolio"></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr class="row-portfolio">
+                                                        <td class="coll-1">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                        <td class="coll-3">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="line-portfolio-1" colspan="4">
+                                                            <div class="line-portfolio"></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr class="row-portfolio">
+                                                        <td class="coll-1">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                        <td class="coll-3">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="line-portfolio-1" colspan="4">
+                                                            <div class="line-portfolio"></div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr class="row-portfolio">
+                                                        <td class="coll-1">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                        <td class="coll-3">
+                                                            <img class="img-portfolio" alt="img-gallery" src="img/img-portfolio.jpg"/>
+                                                        </td>
+                                                        <td class="txt-portfolio">
+                                                            <b>Project Title:</b> TheUndertakingMovie<br>
+                                                            <b>Completed:</b> 01/18/2011<br>
+                                                            <b>URL:</b> http://theundertakingmovie.com<br>
+                                                            <b>Job description:</b>That project was built on CodeIgniter 1.7 to integrate 
+                                                            PayPal handlers to let users purchase subscriptions also integrate user interface (jquery UI), 
+                                                            ajax handlers and flash video effect (overlay youtube video with layer). 
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="line-portfolio-1" colspan="4">
+                                                            <div class="line-portfolio"></div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <div>
+                                                <a class="cover" href=""></a>
+                                            </div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="main-border-bottom"></div>
+                            </div> <!-- /.cont -->
+                        </div> <!-- /.main -->
+                    </div> <!-- /.page-inner -->
+                </div> <!-- /.page -->
+                <div class="footer">
+                    <div class="footer-indent">
+                        <a href="" >home</a>  |  
+                        <a href="" >about us</a>  |  
+                        <a href="" >support</a>  |  
+                        <a href="" >solution</a>  |  
+                        <a href="" >testimonials</a>  |  
+                        <a href="" >contact</a><br/>
+                        <div>
+                            sbushinskii.com 2011 all right reserved 
+                        </div>
+                    </div>
+                </div><!-- /.footer -->
+            </div>
+        </div> <!--content-all-->
+    </body>
+</html>
