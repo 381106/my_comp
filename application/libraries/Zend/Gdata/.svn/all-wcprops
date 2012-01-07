@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata
+END
+Spreadsheets.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Spreadsheets.php
+END
+Exif.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Exif.php
+END
+HttpAdapterStreamingProxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/HttpAdapterStreamingProxy.php
+END
+MimeBodyString.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/MimeBodyString.php
+END
+YouTube.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/YouTube.php
+END
+Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Entry.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Feed.php
+END
+HttpAdapterStreamingSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/HttpAdapterStreamingSocket.php
+END
+MediaMimeStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/MediaMimeStream.php
+END
+Health.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Health.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Query.php
+END
+ClientLogin.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/ClientLogin.php
+END
+Calendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Calendar.php
+END
+Geo.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Geo.php
+END
+Gapps.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Gapps.php
+END
+AuthSub.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/AuthSub.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Extension.php
+END
+Photos.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Photos.php
+END
+Books.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Books.php
+END
+HttpClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/HttpClient.php
+END
+Media.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Media.php
+END
+App.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/App.php
+END
+Gbase.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Gbase.php
+END
+DublinCore.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/DublinCore.php
+END
+MimeFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/MimeFile.php
+END
+Docs.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/company/!svn/ver/17/application/libraries/Zend/Gdata/Docs.php
+END

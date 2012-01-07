@@ -1,0 +1,143 @@
+[dvd-slideshow] Mon Dec 26 17:43:38 NOVT 2011
+[dvd-slideshow] Command line was:
+[dvd-slideshow] /usr/bin/dvd-slideshow -mp2 -L -n slideshow -o /home/php/workspace/my_company_site/tmp/e88b3d22832ab9e166f82e8b3a54861d/ -f /home/php/workspace/my_company_site/tmp/e88b3d22832ab9e166f82e8b3a54861d.conf
+[dvd-slideshow] dvd-slideshow version 0.8.2
+[dvd-slideshow] Linux boss 3.0.0-14-generic-pae #23-Ubuntu SMP Mon Nov 21 22:07:10 UTC 2011 i686 i686 i386 GNU/Linux
+[dvd-slideshow] Output directory=/home/php/workspace/my_company_site/tmp/e88b3d22832ab9e166f82e8b3a54861d
+[dvd-slideshow] Locale: 
+LANG=POSIX
+LANGUAGE=
+LC_CTYPE="POSIX"
+LC_NUMERIC="POSIX"
+LC_TIME="POSIX"
+LC_COLLATE="POSIX"
+LC_MONETARY="POSIX"
+LC_MESSAGES="POSIX"
+LC_PAPER="POSIX"
+LC_NAME="POSIX"
+LC_ADDRESS="POSIX"
+LC_TELEPHONE="POSIX"
+LC_MEASUREMENT="POSIX"
+LC_IDENTIFICATION="POSIX"
+LC_ALL=
+[dvd-slideshow] Using /bin/bash version GNU bash, version 4.2.10(1)-release (i686-pc-linux-gnu)
+[dvd-slideshow] Found mjpegtools version 1.9.0
+[dvd-slideshow] Using mjpegtools subsampling -S 420mpeg2
+[dvd-slideshow] Found sox version v14.3.2
+[dvd-slideshow] Found ImageMagick version 6.6.0-4
+[dvd-slideshow] Found dvdauthor version 
+ffmpeg version 0.7.2-4:0.7.2-1ubuntu1, Copyright (c) 2000-2011 the Libav developers
+  built on Oct  2 2011 15:12:32 with gcc 4.6.1
+  configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --enable-shared --disable-static
+  WARNING: library configuration mismatch
+  avutil      configuration: --extra-version='4:0.7.2.1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-libopenjpeg --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdirac --enable-libmp3lame --enable-librtmp --enable-libx264 --enable-libxvid --enable-libvo-aacenc --enable-version3 --enable-libvo-amrwbenc --enable-version3 --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avcodec     configuration: --extra-version='4:0.7.2.1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-libopenjpeg --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdirac --enable-libmp3lame --enable-librtmp --enable-libx264 --enable-libxvid --enable-libvo-aacenc --enable-version3 --enable-libvo-amrwbenc --enable-version3 --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avformat    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avdevice    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avfilter    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  swscale     configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  postproc    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  libavutil    51.  7. 0 / 51.  7. 0
+  libavcodec   53.  5. 0 / 53.  5. 0
+  libavformat  53.  2. 0 / 53.  2. 0
+  libavdevice  53.  0. 0 / 53.  0. 0
+  libavfilter   2.  4. 0 /  2.  4. 0
+  libswscale    2.  0. 0 /  2.  0. 0
+  libpostproc  52.  0. 0 / 52.  0. 0
+ffmpeg 0.7.2-4:0.7.2-1ubuntu1
+libavutil    51.  7. 0 / 51.  7. 0
+libavcodec   53.  5. 0 / 53.  5. 0
+libavformat  53.  2. 0 / 53.  2. 0
+libavdevice  53.  0. 0 / 53.  0. 0
+libavfilter   2.  4. 0 /  2.  4. 0
+libswscale    2.  0. 0 /  2.  0. 0
+libpostproc  52.  0. 0 / 52.  0. 0
+[dvd-slideshow] ####################################
+[dvd-slideshow] Parsing input file /home/php/workspace/my_company_site/tmp/e88b3d22832ab9e166f82e8b3a54861d.conf
+[dvd-slideshow]############################################################
+[dvd-slideshow] Title font is /usr/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Subtitle font is /usr/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Found 5 images.
+[dvd-slideshow] Found 1 audio files.
+[dvd-slideshow] Found 0 background slides.
+[dvd-slideshow] Found 0 title slides.
+[dvd-slideshow] Found 4 transitions (fadein/fadeout/crossfade/wipe).
+[dvd-slideshow] Video: NTSC 352x240 29.97fps 4:3
+[dvd-slideshow] Audio: MP2 48000 192k
+[dvd-slideshow] Debug=0  Autocrop=0 Subtitles=dvd Border=0
+[dvd-slideshow] Using SMP optimizations for multi-processor machines
+[dvd-slideshow] Title_font=...r/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Subtitle_font=...r/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Running initial error check...
+[dvd-slideshow]############################################################
+[dvd-slideshow] Total audio length = 
+[dvd-slideshow] Total video length = 0:0:5.000
+[dvd-slideshow] WARNING: Using low-quality mode.
+[dvd-slideshow]   This mode is for testing only.
+[dvd-slideshow]   output resolution is 352x240
+[dvd-slideshow]   Ignore [mpeg2enc] warnings (usually)
+[dvd-slideshow] Temp dir is ...6f82e8b3a54861d/dvd-slideshow_temp_14734
+[dvd-slideshow] Creating black background
+[dvd-slideshow]############################################################
+[dvd-slideshow] Track 1 audiofile 0 ...ff/slideshow_demo_content/background.mp3
+[dvd-slideshow]############################################################
+[dvd-slideshow] 1/5 ...pace/my_company_site/stuff/logo_blue.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:2.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 2/5 ...ff/slideshow_demo_content/x_b1275905.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= up
+[dvd-slideshow]############################################################
+[dvd-slideshow] 3/5 ...ite/stuff/slideshow_demo_content/sss.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= left
+[dvd-slideshow]############################################################
+[dvd-slideshow] 4/5 ...demo_content/s3img_161461572_16526_1.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= right
+[dvd-slideshow]############################################################
+[dvd-slideshow] 5/5 ...pace/my_company_site/stuff/logo_blue.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] mpeg2enc process=16284
+[dvd-slideshow] output from ps:
+  PID TTY      STAT   TIME COMMAND
+16284 ?        S      0:00 ffmpeg -f yuv4mpegpipe -i /home/php/workspace/my_company_site/tmp/e88b3d22832ab9e166f82e8b3a54861d/dvd-slideshow_temp_14734/dvdss-pipe-14734 -target ntsc-dvd -r 29.97 -an -aspect 4:3 -s 352x240 -y -bf 2 -f mpeg2video /home/php/workspace/my_company_site/tmp/e88b3d22832ab9e166f82e8b3a54861d/dvd-slideshow_temp_14734/video.mpg
+[dvd-slideshow] waiting for encoder to finish...
+[dvd-slideshow]#####################################
+[dvd-slideshow] Working on track 1 audio file 1
+[dvd-slideshow] /home/php/workspace/my_company_site/stuff/slideshow_demo_content/background.mp3
+[dvd-slideshow] Volume adjust=0.95  should be 1.000
+[dvd-slideshow] Original audio track length=0:2:50.553
+[dvd-slideshow] Fade in time=0:0:0.000 Fade out time=0:0:0.000
+[dvd-slideshow] This audio plays in slideshow from 0:0:0.000 to 0:0:4.500
+[dvd-slideshow] ###############
+[dvd-slideshow] Concatenating all track 1 audio files...
+[dvd-slideshow] Creating mp2 audio using twolame ...
+---------------------------------------------------------
+Input Filename: /home/php/workspace/my_company_site/tmp/e88b3d22832ab9e166f82e8b3a54861d/dvd-slideshow_temp_14734/audio1.wav
+Output Filename: /home/php/workspace/my_company_site/tmp/e88b3d22832ab9e166f82e8b3a54861d/dvd-slideshow_temp_14734/audio1.mp2
+Input Format: WAV (Microsoft), Signed 16 bit PCM
+Input Duration: 0min 4.0sec
+Input Library: libsndfile-1.0.24
+---------------------------------------------------------
+LibTwoLame 0.3.13 (http://www.twolame.org)
+Input : 48000 Hz, 2 channels
+Output: 48000 Hz, Stereo
+192 kbps CBR MPEG-1 Layer II psycho model=3 
+[De-emph:Off     Copyright:No     Original:Yes]
+[Padding:Off     CRC:Off          Energy:Off  ]
+---------------------------------------------------------
+Encoding frame: 3/187 (1%)Encoding frame: 7/187 (3%)Encoding frame: 11/187 (5%)Encoding frame: 15/187 (8%)Encoding frame: 19/187 (10%)Encoding frame: 23/187 (12%)Encoding frame: 27/187 (14%)Encoding frame: 31/187 (16%)Encoding frame: 35/187 (18%)Encoding frame: 39/187 (20%)Encoding frame: 43/187 (22%)Encoding frame: 47/187 (25%)Encoding frame: 51/187 (27%)Encoding frame: 55/187 (29%)Encoding frame: 59/187 (31%)Encoding frame: 63/187 (33%)Encoding frame: 67/187 (35%)Encoding frame: 71/187 (37%)Encoding frame: 75/187 (40%)Encoding frame: 79/187 (42%)Encoding frame: 83/187 (44%)Encoding frame: 87/187 (46%)Encoding frame: 91/187 (48%)Encoding frame: 95/187 (50%)Encoding frame: 99/187 (52%)Encoding frame: 103/187 (55%)Encoding frame: 107/187 (57%)Encoding frame: 111/187 (59%)Encoding frame: 115/187 (61%)Encoding frame: 119/187 (63%)Encoding frame: 123/187 (65%)Encoding frame: 127/187 (67%)Encoding frame: 131/187 (70%)Encoding frame: 135/187 (72%)Encoding frame: 139/187 (74%)Encoding frame: 143/187 (76%)Encoding frame: 147/187 (78%)Encoding frame: 151/187 (80%)Encoding frame: 155/187 (82%)Encoding frame: 159/187 (85%)Encoding frame: 163/187 (87%)Encoding frame: 167/187 (89%)Encoding frame: 171/187 (91%)Encoding frame: 175/187 (93%)Encoding frame: 179/187 (95%)Encoding frame: 183/187 (97%)Encoding frame: 187/187 (100%)
+Encoding Finished.
+Total bytes written: 105.75 KB.
+[dvd-slideshow]############################################################
+[dvd-slideshow] Multiplexing audio and video...
+[dvd-slideshow] Some sequence marker warnings here are normal
+[dvd-slideshow]############################################################
+[dvd-slideshow] ERROR during spumux execution!
+[dvd-slideshow] see /home/php/workspace/my_company_site/tmp/e88b3d22832ab9e166f82e8b3a54861d/slideshow.log for details
+[dvd-slideshow] cleanup...

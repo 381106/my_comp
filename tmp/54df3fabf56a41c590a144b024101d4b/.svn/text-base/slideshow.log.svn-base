@@ -1,0 +1,114 @@
+[dvd-slideshow] Mon Dec 12 16:20:01 NOVT 2011
+[dvd-slideshow] Command line was:
+[dvd-slideshow] /usr/bin/dvd-slideshow -n slideshow -o /home/php/workspace/my_company_site/tmp/54df3fabf56a41c590a144b024101d4b/ -f /home/php/workspace/my_company_site/tmp/54df3fabf56a41c590a144b024101d4b.conf
+[dvd-slideshow] dvd-slideshow version 0.8.2
+[dvd-slideshow] Linux boss 3.0.0-13-generic-pae #22-Ubuntu SMP Wed Nov 2 15:17:35 UTC 2011 i686 i686 i386 GNU/Linux
+[dvd-slideshow] Output directory=/home/php/workspace/my_company_site/tmp/54df3fabf56a41c590a144b024101d4b
+[dvd-slideshow] Locale: 
+LANG=POSIX
+LANGUAGE=
+LC_CTYPE="POSIX"
+LC_NUMERIC="POSIX"
+LC_TIME="POSIX"
+LC_COLLATE="POSIX"
+LC_MONETARY="POSIX"
+LC_MESSAGES="POSIX"
+LC_PAPER="POSIX"
+LC_NAME="POSIX"
+LC_ADDRESS="POSIX"
+LC_TELEPHONE="POSIX"
+LC_MEASUREMENT="POSIX"
+LC_IDENTIFICATION="POSIX"
+LC_ALL=
+[dvd-slideshow] Using /bin/bash version GNU bash, version 4.2.10(1)-release (i686-pc-linux-gnu)
+[dvd-slideshow] Found mjpegtools version 1.9.0
+[dvd-slideshow] Using mjpegtools subsampling -S 420mpeg2
+[dvd-slideshow] Found sox version v14.3.2
+[dvd-slideshow] Found ImageMagick version 6.6.0-4
+[dvd-slideshow] Found dvdauthor version 0.7.0.
+ffmpeg version 0.7.2-4:0.7.2-1ubuntu1, Copyright (c) 2000-2011 the Libav developers
+  built on Oct  2 2011 15:12:32 with gcc 4.6.1
+  configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --enable-shared --disable-static
+  WARNING: library configuration mismatch
+  avutil      configuration: --extra-version='4:0.7.2.1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-libopenjpeg --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdirac --enable-libmp3lame --enable-librtmp --enable-libx264 --enable-libxvid --enable-libvo-aacenc --enable-version3 --enable-libvo-amrwbenc --enable-version3 --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avcodec     configuration: --extra-version='4:0.7.2.1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-libopenjpeg --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdirac --enable-libmp3lame --enable-librtmp --enable-libx264 --enable-libxvid --enable-libvo-aacenc --enable-version3 --enable-libvo-amrwbenc --enable-version3 --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avformat    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avdevice    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avfilter    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  swscale     configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  postproc    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  libavutil    51.  7. 0 / 51.  7. 0
+  libavcodec   53.  5. 0 / 53.  5. 0
+  libavformat  53.  2. 0 / 53.  2. 0
+  libavdevice  53.  0. 0 / 53.  0. 0
+  libavfilter   2.  4. 0 /  2.  4. 0
+  libswscale    2.  0. 0 /  2.  0. 0
+  libpostproc  52.  0. 0 / 52.  0. 0
+ffmpeg 0.7.2-4:0.7.2-1ubuntu1
+libavutil    51.  7. 0 / 51.  7. 0
+libavcodec   53.  5. 0 / 53.  5. 0
+libavformat  53.  2. 0 / 53.  2. 0
+libavdevice  53.  0. 0 / 53.  0. 0
+libavfilter   2.  4. 0 /  2.  4. 0
+libswscale    2.  0. 0 /  2.  0. 0
+libpostproc  52.  0. 0 / 52.  0. 0
+[dvd-slideshow] ####################################
+[dvd-slideshow] Parsing input file /home/php/workspace/my_company_site/tmp/54df3fabf56a41c590a144b024101d4b.conf
+[dvd-slideshow]############################################################
+[dvd-slideshow] Title font is /usr/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Subtitle font is /usr/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Found 5 images.
+[dvd-slideshow] Found 1 audio files.
+[dvd-slideshow] Found 0 background slides.
+[dvd-slideshow] Found 0 title slides.
+[dvd-slideshow] Found 4 transitions (fadein/fadeout/crossfade/wipe).
+[dvd-slideshow] Video: NTSC 720x480 29.97fps 4:3
+[dvd-slideshow] Audio: AC3 48000 192k
+[dvd-slideshow] Debug=0  Autocrop=0 Subtitles=dvd Border=0
+[dvd-slideshow] Using SMP optimizations for multi-processor machines
+[dvd-slideshow] Title_font=...r/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Subtitle_font=...r/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Running initial error check...
+[dvd-slideshow]############################################################
+[dvd-slideshow] Total audio length = 
+[dvd-slideshow] Total video length = 0:0:5.000
+[dvd-slideshow] Temp dir is ...90a144b024101d4b/dvd-slideshow_temp_8942
+[dvd-slideshow] Creating black background
+[dvd-slideshow]############################################################
+[dvd-slideshow] Track 1 audiofile 0 ...c590a144b024101d4b/custom_background.mp3
+[dvd-slideshow]############################################################
+[dvd-slideshow] 1/5 ...pace/my_company_site/stuff/logo_blue.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:2.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 2/5 ...f/slideshow_demo_content/w1_prado_xx.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 3/5 ...ff/slideshow_demo_content/x_b1275905.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 4/5 .../slideshow_demo_content/flyerEditor..jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 5/5 ...pace/my_company_site/stuff/logo_blue.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] mpeg2enc process=10444
+[dvd-slideshow] output from ps:
+  PID TTY      STAT   TIME COMMAND
+10444 pts/2    S+     0:01 ffmpeg -f yuv4mpegpipe -i /home/php/workspace/my_company_site/tmp/54df3fabf56a41c590a144b024101d4b/dvd-slideshow_temp_8942/dvdss-pipe-8942 -target ntsc-dvd -r 29.97 -an -aspect 4:3 -s 720x480 -y -bf 2 -f mpeg2video /home/php/workspace/my_company_site/tmp/54df3fabf56a41c590a144b024101d4b/dvd-slideshow_temp_8942/video.mpg
+[dvd-slideshow] waiting for encoder to finish...
+[dvd-slideshow]#####################################
+[dvd-slideshow] Working on track 1 audio file 1
+[dvd-slideshow] /home/php/workspace/my_company_site/tmp/54df3fabf56a41c590a144b024101d4b/custom_background.mp3
+[dvd-slideshow] Volume adjust=0.95  should be 1.000
+[dvd-slideshow] Original audio track length=0:1:3.425
+[dvd-slideshow] Fade in time=0:0:0.000 Fade out time=0:0:0.000
+[dvd-slideshow] This audio plays in slideshow from 0:0:0.000 to 0:0:4.000
+[dvd-slideshow] ###############
+[dvd-slideshow] Creating ac3 audio...
+[dvd-slideshow] ERROR during ffmpeg execution!
+[dvd-slideshow] see /home/php/workspace/my_company_site/tmp/54df3fabf56a41c590a144b024101d4b/slideshow.log for details
+[dvd-slideshow] cleanup...

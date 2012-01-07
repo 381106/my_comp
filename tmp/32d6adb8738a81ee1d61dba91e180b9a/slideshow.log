@@ -1,0 +1,211 @@
+[dvd-slideshow] Mon Dec 26 16:15:46 NOVT 2011
+[dvd-slideshow] Command line was:
+[dvd-slideshow] /usr/bin/dvd-slideshow -mp2 -L -n slideshow -o /home/php/workspace/my_company_site/tmp/32d6adb8738a81ee1d61dba91e180b9a/ -f /home/php/workspace/my_company_site/tmp/32d6adb8738a81ee1d61dba91e180b9a.conf
+[dvd-slideshow] dvd-slideshow version 0.8.2
+[dvd-slideshow] Linux boss 3.0.0-14-generic-pae #23-Ubuntu SMP Mon Nov 21 22:07:10 UTC 2011 i686 i686 i386 GNU/Linux
+[dvd-slideshow] Output directory=/home/php/workspace/my_company_site/tmp/32d6adb8738a81ee1d61dba91e180b9a
+[dvd-slideshow] Locale: 
+LANG=POSIX
+LANGUAGE=
+LC_CTYPE="POSIX"
+LC_NUMERIC="POSIX"
+LC_TIME="POSIX"
+LC_COLLATE="POSIX"
+LC_MONETARY="POSIX"
+LC_MESSAGES="POSIX"
+LC_PAPER="POSIX"
+LC_NAME="POSIX"
+LC_ADDRESS="POSIX"
+LC_TELEPHONE="POSIX"
+LC_MEASUREMENT="POSIX"
+LC_IDENTIFICATION="POSIX"
+LC_ALL=
+[dvd-slideshow] Using /bin/bash version GNU bash, version 4.2.10(1)-release (i686-pc-linux-gnu)
+[dvd-slideshow] Found mjpegtools version 1.9.0
+[dvd-slideshow] Using mjpegtools subsampling -S 420mpeg2
+[dvd-slideshow] Found sox version v14.3.2
+[dvd-slideshow] Found ImageMagick version 6.6.0-4
+[dvd-slideshow] Found dvdauthor version 
+ffmpeg version 0.7.2-4:0.7.2-1ubuntu1, Copyright (c) 2000-2011 the Libav developers
+  built on Oct  2 2011 15:12:32 with gcc 4.6.1
+  configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --enable-shared --disable-static
+  WARNING: library configuration mismatch
+  avutil      configuration: --extra-version='4:0.7.2.1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-libopenjpeg --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdirac --enable-libmp3lame --enable-librtmp --enable-libx264 --enable-libxvid --enable-libvo-aacenc --enable-version3 --enable-libvo-amrwbenc --enable-version3 --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avcodec     configuration: --extra-version='4:0.7.2.1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-libopenjpeg --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdirac --enable-libmp3lame --enable-librtmp --enable-libx264 --enable-libxvid --enable-libvo-aacenc --enable-version3 --enable-libvo-amrwbenc --enable-version3 --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avformat    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avdevice    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  avfilter    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  swscale     configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  postproc    configuration: --extra-version='4:0.7.2-1ubuntu1' --arch=i386 --prefix=/usr --enable-vdpau --enable-bzlib --enable-libgsm --enable-libschroedinger --enable-libspeex --enable-libtheora --enable-libvorbis --enable-pthreads --enable-zlib --enable-libvpx --enable-runtime-cpudetect --enable-vaapi --enable-gpl --enable-postproc --enable-swscale --enable-x11grab --enable-libdc1394 --shlibdir=/usr/lib/i686/cmov --cpu=i686 --enable-shared --disable-static --disable-ffmpeg --disable-ffplay
+  libavutil    51.  7. 0 / 51.  7. 0
+  libavcodec   53.  5. 0 / 53.  5. 0
+  libavformat  53.  2. 0 / 53.  2. 0
+  libavdevice  53.  0. 0 / 53.  0. 0
+  libavfilter   2.  4. 0 /  2.  4. 0
+  libswscale    2.  0. 0 /  2.  0. 0
+  libpostproc  52.  0. 0 / 52.  0. 0
+ffmpeg 0.7.2-4:0.7.2-1ubuntu1
+libavutil    51.  7. 0 / 51.  7. 0
+libavcodec   53.  5. 0 / 53.  5. 0
+libavformat  53.  2. 0 / 53.  2. 0
+libavdevice  53.  0. 0 / 53.  0. 0
+libavfilter   2.  4. 0 /  2.  4. 0
+libswscale    2.  0. 0 /  2.  0. 0
+libpostproc  52.  0. 0 / 52.  0. 0
+[dvd-slideshow] ####################################
+[dvd-slideshow] Parsing input file /home/php/workspace/my_company_site/tmp/32d6adb8738a81ee1d61dba91e180b9a.conf
+[dvd-slideshow]############################################################
+[dvd-slideshow] Title font is /usr/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Subtitle font is /usr/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Found 21 images.
+[dvd-slideshow] Found 1 audio files.
+[dvd-slideshow] Found 0 background slides.
+[dvd-slideshow] Found 0 title slides.
+[dvd-slideshow] Found 20 transitions (fadein/fadeout/crossfade/wipe).
+[dvd-slideshow] Video: NTSC 352x240 29.97fps 4:3
+[dvd-slideshow] Audio: MP2 48000 192k
+[dvd-slideshow] Debug=0  Autocrop=0 Subtitles=dvd Border=0
+[dvd-slideshow] Using SMP optimizations for multi-processor machines
+[dvd-slideshow] Title_font=...r/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Subtitle_font=...r/share/fonts/type1/gsfonts/n019004l.pfb
+[dvd-slideshow] Running initial error check...
+[dvd-slideshow]############################################################
+[dvd-slideshow] Total audio length = 
+[dvd-slideshow] Total video length = 0:0:21.000
+[dvd-slideshow] WARNING: Using low-quality mode.
+[dvd-slideshow]   This mode is for testing only.
+[dvd-slideshow]   output resolution is 352x240
+[dvd-slideshow]   Ignore [mpeg2enc] warnings (usually)
+[dvd-slideshow] Temp dir is ...1d61dba91e180b9a/dvd-slideshow_temp_7202
+[dvd-slideshow] Creating black background
+[dvd-slideshow]############################################################
+[dvd-slideshow] Track 1 audiofile 0 ...ff/slideshow_demo_content/background.mp3
+[dvd-slideshow]############################################################
+[dvd-slideshow] 1/21 ...pace/my_company_site/stuff/logo_blue.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:2.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 2/21 ...ff/slideshow_demo_content/x_b1275905.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 3/21 ...ite/stuff/slideshow_demo_content/sss.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 4/21 ...demo_content/s3img_161461572_16526_1.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 5/21 ...demo_content/s3img_161461572_16669_1.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 6/21 ...nd_Cruiser_Prado_Frankfurt_2009-main.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 7/21 ...tuff/slideshow_demo_content/HomeRedo.png 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= left
+[dvd-slideshow]############################################################
+[dvd-slideshow] 8/21 ...ideshow_demo_content/Rainbow_2297219.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 9/21 ...demo_content/s3img_161461572_14171_1.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 10/21 ...site/stuff/slideshow_demo_content/fu.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Crossfade between images 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 11/21 ...eshow_demo_content/Firefox_wallpaper.png 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 12/21 ...ite/stuff/slideshow_demo_content/fat.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= up
+[dvd-slideshow]############################################################
+[dvd-slideshow] 13/21 ...f/slideshow_demo_content/w1_prado_xx.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= right
+[dvd-slideshow]############################################################
+[dvd-slideshow] 14/21 .../slideshow_demo_content/hey.you.dude.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= right
+[dvd-slideshow]############################################################
+[dvd-slideshow] 15/21 ...ff/slideshow_demo_content/x_5baa026b.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= right
+[dvd-slideshow]############################################################
+[dvd-slideshow] 16/21 ..._demo_content/s3img_146634562_5470_1.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= down
+[dvd-slideshow]############################################################
+[dvd-slideshow] 17/21 ...tuff/slideshow_demo_content/getwell8.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying wipe between images 0:0:1.000
+[dvd-slideshow] Wipe Subtitle= left
+[dvd-slideshow]############################################################
+[dvd-slideshow] 18/21 ..._demo_content/s3img_12398122_34695_6.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadein to next image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 19/21 ...e/stuff/slideshow_demo_content/Fedor.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 20/21 .../slideshow_demo_content/flyerEditor..jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] Applying Fadeout to previous image 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] 21/21 ...pace/my_company_site/stuff/logo_blue.jpg 0:0:1.000
+[dvd-slideshow]############################################################
+[dvd-slideshow] mpeg2enc process=13285
+[dvd-slideshow] output from ps:
+  PID TTY      STAT   TIME COMMAND
+13285 ?        S      0:01 ffmpeg -f yuv4mpegpipe -i /home/php/workspace/my_company_site/tmp/32d6adb8738a81ee1d61dba91e180b9a/dvd-slideshow_temp_7202/dvdss-pipe-7202 -target ntsc-dvd -r 29.97 -an -aspect 4:3 -s 352x240 -y -bf 2 -f mpeg2video /home/php/workspace/my_company_site/tmp/32d6adb8738a81ee1d61dba91e180b9a/dvd-slideshow_temp_7202/video.mpg
+[dvd-slideshow] waiting for encoder to finish...
+[dvd-slideshow]#####################################
+[dvd-slideshow] Working on track 1 audio file 1
+[dvd-slideshow] /home/php/workspace/my_company_site/stuff/slideshow_demo_content/background.mp3
+[dvd-slideshow] Volume adjust=0.95  should be 1.000
+[dvd-slideshow] Original audio track length=0:2:50.553
+[dvd-slideshow] Fade in time=0:0:0.000 Fade out time=0:0:0.000
+[dvd-slideshow] This audio plays in slideshow from 0:0:0.000 to 0:0:21.000
+[dvd-slideshow] ###############
+[dvd-slideshow] Concatenating all track 1 audio files...
+[dvd-slideshow] Creating mp2 audio using twolame ...
+---------------------------------------------------------
+Input Filename: /home/php/workspace/my_company_site/tmp/32d6adb8738a81ee1d61dba91e180b9a/dvd-slideshow_temp_7202/audio1.wav
+Output Filename: /home/php/workspace/my_company_site/tmp/32d6adb8738a81ee1d61dba91e180b9a/dvd-slideshow_temp_7202/audio1.mp2
+Input Format: WAV (Microsoft), Signed 16 bit PCM
+Input Duration: 0min 21.0sec
+Input Library: libsndfile-1.0.24
+---------------------------------------------------------
+LibTwoLame 0.3.13 (http://www.twolame.org)
+Input : 48000 Hz, 2 channels
+Output: 48000 Hz, Stereo
+192 kbps CBR MPEG-1 Layer II psycho model=3 
+[De-emph:Off     Copyright:No     Original:Yes]
+[Padding:Off     CRC:Off          Energy:Off  ]
+---------------------------------------------------------
+Encoding frame: 3/875 (0%)Encoding frame: 7/875 (0%)Encoding frame: 11/875 (1%)Encoding frame: 15/875 (1%)Encoding frame: 19/875 (2%)Encoding frame: 23/875 (2%)Encoding frame: 27/875 (3%)Encoding frame: 31/875 (3%)Encoding frame: 35/875 (4%)Encoding frame: 39/875 (4%)Encoding frame: 43/875 (4%)Encoding frame: 47/875 (5%)Encoding frame: 51/875 (5%)Encoding frame: 55/875 (6%)Encoding frame: 59/875 (6%)Encoding frame: 63/875 (7%)Encoding frame: 67/875 (7%)Encoding frame: 71/875 (8%)Encoding frame: 75/875 (8%)Encoding frame: 79/875 (9%)Encoding frame: 83/875 (9%)Encoding frame: 87/875 (9%)Encoding frame: 91/875 (10%)Encoding frame: 95/875 (10%)Encoding frame: 99/875 (11%)Encoding frame: 103/875 (11%)Encoding frame: 107/875 (12%)Encoding frame: 111/875 (12%)Encoding frame: 115/875 (13%)Encoding frame: 119/875 (13%)Encoding frame: 123/875 (14%)Encoding frame: 127/875 (14%)Encoding frame: 131/875 (14%)Encoding frame: 135/875 (15%)Encoding frame: 139/875 (15%)Encoding frame: 143/875 (16%)Encoding frame: 147/875 (16%)Encoding frame: 151/875 (17%)Encoding frame: 155/875 (17%)Encoding frame: 159/875 (18%)Encoding frame: 163/875 (18%)Encoding frame: 167/875 (19%)Encoding frame: 171/875 (19%)Encoding frame: 175/875 (20%)Encoding frame: 179/875 (20%)Encoding frame: 183/875 (20%)Encoding frame: 187/875 (21%)Encoding frame: 191/875 (21%)Encoding frame: 195/875 (22%)Encoding frame: 199/875 (22%)Encoding frame: 203/875 (23%)Encoding frame: 207/875 (23%)Encoding frame: 211/875 (24%)Encoding frame: 215/875 (24%)Encoding frame: 219/875 (25%)Encoding frame: 223/875 (25%)Encoding frame: 227/875 (25%)Encoding frame: 231/875 (26%)Encoding frame: 235/875 (26%)Encoding frame: 239/875 (27%)Encoding frame: 243/875 (27%)Encoding frame: 247/875 (28%)Encoding frame: 251/875 (28%)Encoding frame: 255/875 (29%)Encoding frame: 259/875 (29%)Encoding frame: 263/875 (30%)Encoding frame: 267/875 (30%)Encoding frame: 271/875 (30%)Encoding frame: 275/875 (31%)Encoding frame: 279/875 (31%)Encoding frame: 283/875 (32%)Encoding frame: 287/875 (32%)Encoding frame: 291/875 (33%)Encoding frame: 295/875 (33%)Encoding frame: 299/875 (34%)Encoding frame: 303/875 (34%)Encoding frame: 307/875 (35%)Encoding frame: 311/875 (35%)Encoding frame: 315/875 (36%)Encoding frame: 319/875 (36%)Encoding frame: 323/875 (36%)Encoding frame: 327/875 (37%)Encoding frame: 331/875 (37%)Encoding frame: 335/875 (38%)Encoding frame: 339/875 (38%)Encoding frame: 343/875 (39%)Encoding frame: 347/875 (39%)Encoding frame: 351/875 (40%)Encoding frame: 355/875 (40%)Encoding frame: 359/875 (41%)Encoding frame: 363/875 (41%)Encoding frame: 367/875 (41%)Encoding frame: 371/875 (42%)Encoding frame: 375/875 (42%)Encoding frame: 379/875 (43%)Encoding frame: 383/875 (43%)Encoding frame: 387/875 (44%)Encoding frame: 391/875 (44%)Encoding frame: 395/875 (45%)Encoding frame: 399/875 (45%)Encoding frame: 403/875 (46%)Encoding frame: 407/875 (46%)Encoding frame: 411/875 (46%)Encoding frame: 415/875 (47%)Encoding frame: 419/875 (47%)Encoding frame: 423/875 (48%)Encoding frame: 427/875 (48%)Encoding frame: 431/875 (49%)Encoding frame: 435/875 (49%)Encoding frame: 439/875 (50%)Encoding frame: 443/875 (50%)Encoding frame: 447/875 (51%)Encoding frame: 451/875 (51%)Encoding frame: 455/875 (52%)Encoding frame: 459/875 (52%)Encoding frame: 463/875 (52%)Encoding frame: 467/875 (53%)Encoding frame: 471/875 (53%)Encoding frame: 475/875 (54%)Encoding frame: 479/875 (54%)Encoding frame: 483/875 (55%)Encoding frame: 487/875 (55%)Encoding frame: 491/875 (56%)Encoding frame: 495/875 (56%)Encoding frame: 499/875 (57%)Encoding frame: 503/875 (57%)Encoding frame: 507/875 (57%)Encoding frame: 511/875 (58%)Encoding frame: 515/875 (58%)Encoding frame: 519/875 (59%)Encoding frame: 523/875 (59%)Encoding frame: 527/875 (60%)Encoding frame: 531/875 (60%)Encoding frame: 535/875 (61%)Encoding frame: 539/875 (61%)Encoding frame: 543/875 (62%)Encoding frame: 547/875 (62%)Encoding frame: 551/875 (62%)Encoding frame: 555/875 (63%)Encoding frame: 559/875 (63%)Encoding frame: 563/875 (64%)Encoding frame: 567/875 (64%)Encoding frame: 571/875 (65%)Encoding frame: 575/875 (65%)Encoding frame: 579/875 (66%)Encoding frame: 583/875 (66%)Encoding frame: 587/875 (67%)Encoding frame: 591/875 (67%)Encoding frame: 595/875 (68%)Encoding frame: 599/875 (68%)Encoding frame: 603/875 (68%)Encoding frame: 607/875 (69%)Encoding frame: 611/875 (69%)Encoding frame: 615/875 (70%)Encoding frame: 619/875 (70%)Encoding frame: 623/875 (71%)Encoding frame: 627/875 (71%)Encoding frame: 631/875 (72%)Encoding frame: 635/875 (72%)Encoding frame: 639/875 (73%)Encoding frame: 643/875 (73%)Encoding frame: 647/875 (73%)Encoding frame: 651/875 (74%)Encoding frame: 655/875 (74%)Encoding frame: 659/875 (75%)Encoding frame: 663/875 (75%)Encoding frame: 667/875 (76%)Encoding frame: 671/875 (76%)Encoding frame: 675/875 (77%)Encoding frame: 679/875 (77%)Encoding frame: 683/875 (78%)Encoding frame: 687/875 (78%)Encoding frame: 691/875 (78%)Encoding frame: 695/875 (79%)Encoding frame: 699/875 (79%)Encoding frame: 703/875 (80%)Encoding frame: 707/875 (80%)Encoding frame: 711/875 (81%)Encoding frame: 715/875 (81%)Encoding frame: 719/875 (82%)Encoding frame: 723/875 (82%)Encoding frame: 727/875 (83%)Encoding frame: 731/875 (83%)Encoding frame: 735/875 (84%)Encoding frame: 739/875 (84%)Encoding frame: 743/875 (84%)Encoding frame: 747/875 (85%)Encoding frame: 751/875 (85%)Encoding frame: 755/875 (86%)Encoding frame: 759/875 (86%)Encoding frame: 763/875 (87%)Encoding frame: 767/875 (87%)Encoding frame: 771/875 (88%)Encoding frame: 775/875 (88%)Encoding frame: 779/875 (89%)Encoding frame: 783/875 (89%)Encoding frame: 787/875 (89%)Encoding frame: 791/875 (90%)Encoding frame: 795/875 (90%)Encoding frame: 799/875 (91%)Encoding frame: 803/875 (91%)Encoding frame: 807/875 (92%)Encoding frame: 811/875 (92%)Encoding frame: 815/875 (93%)Encoding frame: 819/875 (93%)Encoding frame: 823/875 (94%)Encoding frame: 827/875 (94%)Encoding frame: 831/875 (94%)Encoding frame: 835/875 (95%)Encoding frame: 839/875 (95%)Encoding frame: 843/875 (96%)Encoding frame: 847/875 (96%)Encoding frame: 851/875 (97%)Encoding frame: 855/875 (97%)Encoding frame: 859/875 (98%)Encoding frame: 863/875 (98%)Encoding frame: 867/875 (99%)Encoding frame: 871/875 (99%)Encoding frame: 875/875 (100%)
+Encoding Finished.
+Total bytes written: 492.19 KB.
+[dvd-slideshow]############################################################
+[dvd-slideshow] Multiplexing audio and video...
+[dvd-slideshow] Some sequence marker warnings here are normal
+[dvd-slideshow]############################################################
+[dvd-slideshow] ERROR during spumux execution!
+[dvd-slideshow] see /home/php/workspace/my_company_site/tmp/32d6adb8738a81ee1d61dba91e180b9a/slideshow.log for details
+[dvd-slideshow] cleanup...

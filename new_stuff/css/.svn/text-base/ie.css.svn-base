@@ -1,0 +1,22 @@
+/* 
+    Document   : ie
+    Created on : 12.10.2011, 21:31:07
+    Author     : Полина
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+@font-face {
+    font-family: "gothic-ie";
+    src: url(../fonts/gothic.eot);
+}
+
+@font-face {
+    font-family: "gothicb-ie";
+    src: url(../fonts/gothicb.eot);
+}

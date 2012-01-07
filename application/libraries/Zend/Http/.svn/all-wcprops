@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/company/!svn/ver/17/application/libraries/Zend/Http
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/company/!svn/ver/17/application/libraries/Zend/Http/Client.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/company/!svn/ver/17/application/libraries/Zend/Http/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/company/!svn/ver/17/application/libraries/Zend/Http/Response.php
+END
